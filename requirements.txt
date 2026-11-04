@@ -1,0 +1,7 @@
+ipython
+jupyter
+watermark
+numpy
+pandas
+scipy
+matplotlib
